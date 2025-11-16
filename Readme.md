@@ -1,4 +1,4 @@
-# ![https://aroachiva.framer.website](./avar%20github%201.png) Hola, mi nombre es Aroa Chiva 👋
+# ![https://aroachiva.framer.website](./avar%20github%201.png) Hola, mi nombre es Aroa Chiva 
 ### 💻 Desarrollador Full Stack & diseño Web | Creador de Soluciones Digitales
 </br>
 
@@ -62,3 +62,4 @@ Si tuviera que resumir mi esencia profesional en una palabra, sería Todoterreno
 * **Portfolio:** [Mi Sitio Web Profesional](https://www.aroachiva.framer.website)
 * **Correo Electrónico:** **aroa.chiva@gmail.com**
 * **Descarga CV (PDF):** [Mi Currículum Vitae](./AroaCV.pdf)
+
