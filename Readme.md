@@ -59,8 +59,9 @@ Si tuviera que resumir mi esencia profesional en una palabra, sería Todoterreno
 ## ![https://github.com/AroaChiva](./avatar%20post.png) Conéctate Conmigo
 
 * **LinkedIn:** [Mí Perfil de LinkedIn](https://www.linkedin.com/in/aroa-chivadev)
-* **Portfolio:** [Mi Sitio Web Profesional](https://www.aroachiva.framer.website)
+* **Portfolio:** [Mi Sitio Web Profesional](https://aroachiva.framer.website/)
 * **Correo Electrónico:** **aroa.chiva@gmail.com**
 * **Descarga CV (PDF):** [Mi Currículum Vitae](./AroaCV.pdf)
+
 
 
